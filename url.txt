@@ -1,0 +1,11 @@
+Composição URL
+https://www.google.com/
+<protocolo>://<ip>:<port>/<endpoint>
+
+Servidores de DNS
+www.google.com -> 134.0.0.34:3000
+
+Flask Local:
+127.0.0.1 = localhost = A propria maquina que está executando
+
+http://127.0.0.1:5000/hello
